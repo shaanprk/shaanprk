@@ -2,7 +2,7 @@
 Hello! Welcome to my GitHub. I am a **Software Engineer** 👨‍💻 with a passion for building and bringing ideas to life!
 
 # About Me
-I graduated from **University of California, San Diego** with a focus on **Math** & **Computer Science** and a minor on **Finance**. Ever since a young age I loved to tinker with legos and build things, and this passion carried onto coding.
+I graduated from **University of California, San Diego** with a degree in **Math & Computer Science** and a minor in **Finance**. Since childhood, I've loved tinkering with Legos and building things—a passion that seamlessly transitioned into coding.
 
 # Technical Skills
 - Programming Languages: Java, Python, C, C++, JavaScript, TypeScript
