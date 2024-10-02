@@ -6,6 +6,16 @@ I graduated from **University of California, San Diego** with a focus on **Math*
 
 # Technical Skills
 - Programming Languages: Java, Python, C, C++, JavaScript, TypeScript
-- Web Technologies: HTML, CSS, React, Vue.js, Node.js, Django
+- Frameworks & Libraries: React, Vue.js, Node.js, Django
 - Database Systems: MongoDB, SQLite
-- Developer Tools: VS Code, Eclipse, IntelliJ, Unix
+- Tools & Platforms: GitHub, AWS
+
+# Key Projects
+- Personal Portfolio
+- CC Tracker
+- Mods & Plugins
+
+# Connect With Me
+I am looking forward to connecting and collaborating in the future.
+- [LinkedIn](https://www.linkedin.com/in/jeongbin-sean-park/)
+- [Email](imbinpark@gmail.com)
