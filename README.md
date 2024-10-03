@@ -5,7 +5,7 @@ Hello! Welcome to my GitHub. I am a **Software Engineer** 👨‍💻 with a pas
 I graduated from **University of California, San Diego** with a degree in **Math & Computer Science** and a minor in **Finance**. Since childhood, I've loved tinkering with Legos and building things—a passion that seamlessly transitioned into coding.
 
 # Technical Skills
-- Programming Languages: Java, Python, C, C++, JavaScript, TypeScript
+- Programming Languages: Java, Python, C, C++, JavaScript, TypeScript, HTML, CSS
 - Frameworks & Libraries: React, Vue.js, Node.js, Django
 - Database Systems: MongoDB, SQLite
 - Tools & Platforms: GitHub, AWS
