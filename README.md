@@ -11,7 +11,7 @@ I graduated from **University of California, San Diego** with a degree in **Math
 - Tools & Platforms: GitHub, AWS
 
 # Key Projects
-- Personal Portfolio
+- [Personal Portfolio](https://github.com/shaanprk/Personal-Portfolio): Implemented using Vue.js and Tailwind CSS, hosted on Vercel at: Link
 - CC Tracker
 - Mods & Plugins
 
