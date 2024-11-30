@@ -15,7 +15,7 @@ I graduated from **University of California, San Diego** with a degree in **Math
 - CC Tracker
 - [Redis App](https://github.com/shaanprk/redis-app): Built a Redis clone in C++ to learn more about Redis protocol.
 - [Mods & Plugins](https://github.com/shaanprk/Mods-Plugins): Repository containing Mods and Plugins developed with Java and Kotlin.
-- [Collection of Side Projects](https://github.com/shaanprk/Side_Projects): Collection of mini side projects, practicing JavaScript, HTML, CSS, etc.
+- [Collection of Side Projects](https://github.com/shaanprk/Side_Projects): Collection of side projects practicing JavaScript, HTML, CSS, etc.
 
 # Connect With Me
 I am looking forward to connecting and collaborating in the future.
