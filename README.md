@@ -7,7 +7,7 @@ I graduated from **University of California, San Diego** with a degree in **Math
 # Technical Skills
 - Programming Languages: Java, Python, C, C++, JavaScript, TypeScript, HTML, CSS
 - Frameworks & Libraries: React, Vue.js, Node.js, Django
-- Database Systems: MongoDB, SQLite
+- Database Systems: MongoDB, PostgreSQL, SQLite
 - Tools & Platforms: GitHub, AWS
 
 # Key Projects
