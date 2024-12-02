@@ -21,4 +21,4 @@ I graduated from **University of California, San Diego** with a degree in **Math
 I am looking forward to connecting and collaborating in the future.
 - [LinkedIn](https://www.linkedin.com/in/jeongbin-sean-park/)
 - [Email](mailto:imbinpark@gmail.com)
-- [Resume](https://drive.google.com/file/d/1Lmwdbdi3Ve-3RJKyilJV4duXCfBldvXU/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1R7-lg9mb2ONPUghmVno9W4hjPKJwHJAw/view?usp=sharing)
