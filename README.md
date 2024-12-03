@@ -6,9 +6,9 @@ I graduated from **University of California, San Diego** with a degree in **Math
 
 # Technical Skills
 - Programming Languages: Java, Python, C, C++, JavaScript, TypeScript, HTML, CSS
-- Frameworks & Libraries: React, Vue.js, Node.js, Django
+- Frameworks & Libraries: React, Vue.js, Django
 - Database Systems: MongoDB, PostgreSQL, SQLite
-- Tools & Platforms: GitHub, AWS
+- Tools & Platforms: GitHub, AWS, Node.js
 
 # Key Projects
 - [Personal Portfolio](https://github.com/shaanprk/Vue-Personal-Portfolio): Implemented using **Vue.js** and **Tailwind CSS**, hosted on **Vercel** at: Link
