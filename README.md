@@ -15,6 +15,7 @@ I graduated from **University of California, San Diego** with a degree in **Math
 - [CC Tracker](https://github.com/shaanprk/cc-points-analyzer): Created a tool to maximize credit card rewards using **Django**, **React**, **Selenium** and **Celery**.
 - [Redis App](https://github.com/shaanprk/redis-app): Built a Redis clone in **C++** to learn more about Redis protocol.
 - [Mods & Plugins](https://github.com/shaanprk/Mods-Plugins): Repository containing Mods and Plugins developed with **Java** and **Kotlin**.
+- [Youtube Clone](https://github.com/shaanprk/youtube-clone): Created a Youtube clone to get a better understanding of Full Stack Development.
 - [Collection of Side Projects](https://github.com/shaanprk/Side_Projects): Collection of side projects practicing **JavaScript**, **HTML**, **CSS**, etc.
 
 # Connect With Me
