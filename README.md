@@ -12,6 +12,7 @@ I graduated from **University of California, San Diego** with a degree in **Math
 
 # Key Projects
 - [Personal Portfolio](https://github.com/shaanprk/Vue-Personal-Portfolio): Implemented using **Vue.js** and **Tailwind CSS**, hosted on **Vercel** at: [Link](https://www.binni.dev/)
+- [Three.js Portfolio](https://github.com/shaanprk/react-threejs-portfolio): **WIP** Portfolio Site **v2** built with **Three.js**, **React** and **Express.js**.
 - [CC Tracker](https://github.com/shaanprk/cc-points-analyzer): Created a tool to maximize credit card rewards using **Django**, **React**, **Selenium** and **Celery**.
 - [Redis App](https://github.com/shaanprk/redis-app): Built a Redis clone in **C++** to learn more about Redis protocol.
 - [Mods & Plugins](https://github.com/shaanprk/Mods-Plugins): Repository containing Mods and Plugins developed with **Java** and **Kotlin**.
