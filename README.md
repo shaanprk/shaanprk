@@ -5,10 +5,10 @@ Hello! Welcome to my GitHub. I am a **Software Engineer** 👨‍💻 with a pas
 I graduated from **University of California, San Diego** with a degree in **Math & Computer Science** and a minor in **Finance**. Since childhood, I've loved tinkering with Legos and building things—a passion that seamlessly transitioned into coding.
 
 # Technical Skills
-- Programming Languages: Java, Python, C, C++, JavaScript, TypeScript, HTML, CSS
+- Programming Languages: Java, Python, C/C++, JavaScript, TypeScript, R
 - Frameworks & Libraries: React, Vue.js, Django, Express.js
 - Database Systems: MongoDB, PostgreSQL, SQLite, Redis
-- Tools & Platforms: GitHub, AWS, Node.js
+- Tools & Platforms: GitHub, AWS, Node.js, Docker, Linux
 
 # Key Projects
 - [Personal Portfolio](https://github.com/shaanprk/Vue-Personal-Portfolio): Implemented using **Vue.js**, **Express.js**, and **Tailwind CSS**, hosted on **Vercel** at: [binni.dev](https://www.binni.dev/)
@@ -23,4 +23,4 @@ I graduated from **University of California, San Diego** with a degree in **Math
 I am looking forward to connecting and collaborating in the future.
 - [LinkedIn](https://www.linkedin.com/in/jeongbin-sean-park/)
 - [Email](mailto:imbinpark@gmail.com)
-- [Resume](https://drive.google.com/file/d/1gkTG6iN_qHuk7a4OU2jKYlxmGUZyhaXb/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1gDBoXHeUoaTXE-55ybw3VuvBtO9_24DJ/view?usp=sharing)
