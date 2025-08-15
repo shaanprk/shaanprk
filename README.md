@@ -24,4 +24,4 @@ I am looking forward to connecting and collaborating in the future.
 - [Website](https://www.binni.dev/)
 - [LinkedIn](https://www.linkedin.com/in/jeongbin-sean-park/)
 - [Email](mailto:imbinpark@gmail.com)
-- [Resume](https://drive.google.com/file/d/1gDBoXHeUoaTXE-55ybw3VuvBtO9_24DJ/view?usp=sharing)
+- [Resume](https://drive.google.com/file/d/1B7Xeqiqrfnp1-_CaqfZSTr7M4XIheFU7/view?usp=sharing)
